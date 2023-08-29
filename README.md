@@ -1,6 +1,5 @@
 # Kotlin_Skills
-![image](https://images.velog.io/images/haero_kim/post/212f9167-e32d-41f1-be80-0e6bc12c6cf8/general.png)
-
+<img src="https://images.velog.io/images/haero_kim/post/212f9167-e32d-41f1-be80-0e6bc12c6cf8/general.png" width="400" height="200"/>
 # 학습 리스트업 in WiKi
 
 | 목록 | Wiki 이동 |
