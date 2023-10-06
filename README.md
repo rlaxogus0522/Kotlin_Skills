@@ -11,4 +11,5 @@
 | Flavors | [무료앱, 유료앱 2가지 버전 만들기](https://github.com/rlaxogus0522/Kotlin_Skills/wiki/%5BFlavors%5D-무료앱,-유료앱-2가지-버전-만들기) |
 | Kotlin DSL | [Gradle Kotlin DSL 적용](https://github.com/rlaxogus0522/Kotlin_Skills/wiki/Gradle-Kotlin-DSL--적용) |   
 | UnitTest | [Kotest 장/단점, 스타일](https://github.com/rlaxogus0522/Kotlin_Skills/wiki/Kotest-장-단점,-스타일) |   
-| UnitTest | [Kotest MockWebServer](https://github.com/rlaxogus0522/Kotlin_Skills/wiki/Kotest-MockWebServer) |
+| UnitTest | [Kotest MockWebServer](https://github.com/rlaxogus0522/Kotlin_Skills/wiki/Kotest-MockWebServer) |   
+| SDK33 | [target SDK33 변경 진행 간 특이사항 기록](https://github.com/rlaxogus0522/Kotlin_Skills/wiki/target-SDK-33에-따른-APP-수정-특이사항-기록) |
